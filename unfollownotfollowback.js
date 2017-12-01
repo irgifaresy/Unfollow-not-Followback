@@ -10,8 +10,8 @@ const delay = require('delay');
 const _ = require('lodash');
 
 const User = {
-    username: 'irgiachmad_f', // Your Username Instagram
-    password: '12Irgia7x', // Your Password Instagram
+    username: 'irgiachmad_f' // Your Username Instagram
+    password: '12Irgia7x' // Your Password Instagram
 }
 
 const doLogin = async function(User){
